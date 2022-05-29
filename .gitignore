@@ -1,0 +1,10 @@
+# Byte-compiled
+__pycache__/
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+
+# Mac Desktop Services Store files.
+.DS_Store
