@@ -8,4 +8,4 @@ setup(name='leopard_cat',
       author='Meng-Gen Tsai',
       author_email = 'plover@gmail.com',
       description = 'Leopard Cat Python Package',
-      packages=['leopard_cat'])
+      packages=['leopard_cat', 'leopard_cat/crawler'])
