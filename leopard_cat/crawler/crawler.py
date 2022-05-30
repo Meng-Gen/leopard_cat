@@ -1,16 +1,15 @@
-"""Module to crawl URL sources."""
+"""Module to crawl feed sources."""
 
-from leopard_cat.crawler.url_source import UrlSource
+from leopard_cat.crawler.feed_source import FeedSource
 
 
 class Crawler():
   """Class for crawling feed sources."""
 
-  def crawl(self, source: UrlSource) -> None:
-    """Crawls the URL source.
+  def crawl(self, feed_source: FeedSource) -> None:
+    """Crawls the feed source.
 
     Args:
-      source: The URL source to be crawled.
+      feed_source: The feed source to be crawled.
     """
-    print(source)
-    pass
+    print(feed_source)

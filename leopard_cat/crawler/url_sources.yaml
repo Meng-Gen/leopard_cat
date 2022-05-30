@@ -1,6 +1,0 @@
-version: 1
-url_sources:
-  - name: web_resource/twse/mops/operating_income/2021/01
-    link: https://mops.twse.com.tw/nas/t21/sii/t21sc03_110_1.csv
-  - name: web_resource/twse/mops/business_reporting/2022/03
-    link: https://mops.twse.com.tw/server-java/FileDownLoad?step=9&functionName=show_file2&fileName=tifrs-2022Q1.zip&filePath=/ifrs/2022/
